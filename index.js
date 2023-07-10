@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 const config = {
-  discordToken: 'MTEyMjExNDM0NDY4NDExNDA2MQ.Ge8BVI.z8C135Ogg5LrOee3Q85FOMLnZIAcp6Wtsc7Los'
+  discordToken: ''
 };
 
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES] });
