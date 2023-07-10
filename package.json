@@ -1,0 +1,19 @@
+{
+  "name": "viralbot",
+  "version": "1.0.0",
+  "description": "Simply bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "bot",
+    "mta",
+    "server"
+  ],
+  "author": "nordlock",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
